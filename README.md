@@ -1,3 +1,5 @@
 # hello-world
 My first repository!
- 28 years old, self learning python3 at the moment, hope to do something with this skill someday!
+ im intrested in hockey, the outdoors, and learning
+  im currently learning python3
+   you can reach me at mic.harrell@outlook.com
